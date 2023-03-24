@@ -1,4 +1,3 @@
-## X86 Assembly code (AT&T syntax)
+# X86 Assembly code (AT&T syntax)
 
-From the book `Programming Ground Up by Jonathan Bartlett`
-
+My solutions to excercises from the book `Programming Ground Up by Jonathan Bartlett`
